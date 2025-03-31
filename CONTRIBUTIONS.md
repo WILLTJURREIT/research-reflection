@@ -154,16 +154,25 @@ ________________________________________________________________________________
 - W3 Schools Website[W3_SchoolsLearnPython](https://www.w3schools.com/python/)
 - YouTube beginner to Python Website[YouTube_Video_Python]https://www.bing.com/videos/riverview/relatedvideo?q=learn+python+&mid=AC78F45084274CB5E4FDAC78F45084274CB5E4FD&mcid=0AA1DB10E2714FC4B6F2DCC1560D0126&FORM=VIRE
 
-_____________________________________________________________________________________________
-# Week 11 (Total Hours Spent __Hours) (More to be added this week)
+_______________________________________________________________________
+
+
+# Week 11 (Total Hours Spent 6 Hours) (More to be added this week)
 
 ### Progress:
-
+- This week I re-created the user-management page to meet our teams themes and goals. 
+- I went over the plan with Armando in class and I now have more to work with. 
+- As part of this project I have been researching the different languages so as I go and will provide a few links to resources. 
+- I looked at the pages that Sujal has created, and I am trying to create ones that we do not have yet.
 
 ### Challenges: 
-
+- My largest obstacle is my other homework, I spent nearly 60 hours approx on my coding assignment for 114, and near the end I lost my entire project. 
+- My next largest obstacle is communication with my team, we seem to have a very difficult time communicating, and I can tell it is picking up near the end of this course, but it has been very poor.
+- I have been very eager to work on things, but I have felt stuck many times, because I do not understand the other codes, and it has thrown me off. 
 
 ### My Plan: 
-
+- Now that I am beginning to finally catch up on some of my other courses, I plan to create a page everyday. 
+- My hours put in will be fully accounted for and then some by the end of this course, and I realize I have not been able to complete a lot but the effort has been there. 
+- 
 
 ### Reference to Research: 
